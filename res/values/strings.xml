@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tamil Nadu RTO Directory</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_exit">Exit</string>
+    <string name="spTitle"> TN RTO Directory </string>
+    <string name="alpha"> -Alpha Version </string>
+    <string name="title_activity_list">TN RTO Directory </string>
+    <string name="title_activity_about">About</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
